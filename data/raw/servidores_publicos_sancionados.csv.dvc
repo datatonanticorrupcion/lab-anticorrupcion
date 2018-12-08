@@ -1,0 +1,8 @@
+deps:
+- etag: '"258358-57c1ce3de1856"'
+  path: http://datosabiertos.funcionpublica.gob.mx/datosabiertos/rsps/ServPubSancionados.csv
+md5: 6b18e693eaaefadbeb79378a2cd70d71
+outs:
+- cache: true
+  md5: 292ced8d61b3ff7986ebd2ae8ca50fb9
+  path: servidores_publicos_sancionados.csv

@@ -1,0 +1,8 @@
+deps:
+- etag: '"156a000-5789ba3b00b92"'
+  path: http://datosabiertos.funcionpublica.gob.mx/datosabiertos/reniresp/reniresphistorico.csv
+md5: 4921580e63623567978faeb7b799c1d1
+outs:
+- cache: true
+  md5: 3c45a6f0844592b43185accd14da04a0
+  path: servidores_publicos_que_intervienen_en_contrataciones.csv

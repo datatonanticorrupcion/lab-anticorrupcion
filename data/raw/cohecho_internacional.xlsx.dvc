@@ -1,0 +1,8 @@
+deps:
+- etag: '"2013ca2751f605e1c35b2480a9185ebef0f8ceed"'
+  path: https://github.com/datatonanticorrupcion/01_cohecho_internacional/raw/master/ESTADISTICA-COHECHO-INTERNACIONAL.xlsx
+md5: 6555625337e5cdbcb07954fd44008ed9
+outs:
+- cache: true
+  md5: 8bf2777e1abe723b21d58f061b094e42
+  path: cohecho_internacional.xlsx

@@ -1,0 +1,8 @@
+deps:
+- etag: '0x8D618F5C36712FE'
+  path: https://wu1aqauatsta002.blob.core.windows.net/datosabiertos/reporte_donatarias_2014_datos_2013.csv
+md5: 23aa8d5fcc154fb4ba8730c72dec41d8
+outs:
+- cache: true
+  md5: 3c82d95a8306e60606b80cc704b411ed
+  path: donatarias_autorizadas_2013.csv

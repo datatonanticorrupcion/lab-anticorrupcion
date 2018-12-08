@@ -1,0 +1,8 @@
+deps:
+- etag: '"d82df-57c6f08d821c4"'
+  path: http://datosabiertos.funcionpublica.gob.mx/datosabiertos/sanc/proveedores_sancionados.csv
+md5: ba9c7d12d120b437d15bdd64f47cd29e
+outs:
+- cache: true
+  md5: 20b66130bd995b8bc88f8d63631176d7
+  path: proveedores_sancionados.csv

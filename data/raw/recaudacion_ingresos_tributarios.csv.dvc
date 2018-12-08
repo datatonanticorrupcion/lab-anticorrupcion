@@ -1,0 +1,8 @@
+deps:
+- etag: '0x8D64B486F8F4D3C'
+  path: https://wu1aqauatsta002.blob.core.windows.net/datosabiertos/IngresosTributarios.csv
+md5: 1e77c24c674ecc522a77a9d46ab86d1d
+outs:
+- cache: true
+  md5: 28183169f5018a9bf792ac27df24b302
+  path: recaudacion_ingresos_tributarios.csv

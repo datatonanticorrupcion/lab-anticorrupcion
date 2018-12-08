@@ -1,0 +1,8 @@
+deps:
+- etag: '"471e82-57ab638621885"'
+  path: http://datosabiertos.funcionpublica.gob.mx/datosabiertos/pgcm/ProyectosMejoraUPMGP.csv
+md5: 44c47e2854be2372ea5db1f2cbf64b6f
+outs:
+- cache: true
+  md5: 3c9d8e27a7c49afe0251f0334ebe1aed
+  path: proyectos_de_mejora_gubernamental.csv

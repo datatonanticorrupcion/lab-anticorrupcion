@@ -1,0 +1,8 @@
+deps:
+- etag: '"6296-563a032197680"'
+  path: http://datosabiertos.funcionpublica.gob.mx/datosabiertos/datasetsfp/Encuesta_Tramites_CCE.xlsx
+md5: 7e3818d6a3bf5b356ebebee4bdadd393
+outs:
+- cache: true
+  md5: 6ddd045b38a127aae8fef3e36a40b24f
+  path: tramites_anticorrupcion.xlsx

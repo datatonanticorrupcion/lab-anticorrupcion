@@ -1,0 +1,8 @@
+deps:
+- etag: '"3146-56e8e45063780"'
+  path: http://datosabiertos.funcionpublica.gob.mx/datosabiertos/sideof/SIDEOF_presupuesto.csv
+md5: 705ff18e9dc48737dbc0decab917e515
+outs:
+- cache: true
+  md5: a8f808acebb7c84de353626c30a46773
+  path: donativos_federales_en_efectivo.csv

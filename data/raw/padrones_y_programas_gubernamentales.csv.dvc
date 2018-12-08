@@ -1,0 +1,8 @@
+deps:
+- etag: '"8ed05a-57520d516d580"'
+  path: http://datosabiertos.funcionpublica.gob.mx/datosabiertos/siippg/PadronSIIPPG.csv
+md5: eeda3b55ad5f210d495f287ab7b07222
+outs:
+- cache: true
+  md5: 9f1abeeccc34cf2ee9a1c3ac8442c6ca
+  path: padrones_y_programas_gubernamentales.csv

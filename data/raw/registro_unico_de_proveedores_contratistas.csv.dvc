@@ -1,0 +1,8 @@
+deps:
+- etag: '"1a00003-48b8af-57c6fdf697dc0"'
+  path: https://siac.funcionpublica.gob.mx/DatosAbiertos/rupc/RUPC.csv
+md5: 9a3888e853dd6a2c71d06c333b3e50fe
+outs:
+- cache: true
+  md5: 8d4ca966ff2b3e71b98b6f3b53bc52e1
+  path: registro_unico_de_proveedores_contratistas.csv

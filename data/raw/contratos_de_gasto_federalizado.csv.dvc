@@ -1,0 +1,10 @@
+cmd: wget -qO - https://github.com/datatonanticorrupcion/13_contratos_gasto/raw/master/reporte_de_contratos_ef.csv.gz
+  | gzip -c -d - > contratos_de_gasto_federalizado.csv
+deps:
+- etag: '"8dc1db2eefd4a2bfc87fe64eb0f5971ed5a63470"'
+  path: https://github.com/datatonanticorrupcion/13_contratos_gasto/raw/master/reporte_de_contratos_ef.csv.gz
+md5: 7884fa0d5682dab3455adb86d2051059
+outs:
+- cache: true
+  md5: a9d3aed54015a15e015882fb74e60895
+  path: contratos_de_gasto_federalizado.csv
