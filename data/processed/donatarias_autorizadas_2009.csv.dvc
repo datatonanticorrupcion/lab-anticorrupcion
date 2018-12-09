@@ -1,0 +1,12 @@
+cmd: ../../src/clean/donatarias_autorizadas.sed ../raw/donatarias_autorizadas_2009.csv
+  | iconv -f latin1 -t utf-8 > donatarias_autorizadas_2009.csv
+deps:
+- md5: 4e03b71a33b7c7de63e8f0d995faee0d
+  path: ../raw/donatarias_autorizadas_2009.csv
+- md5: 70af250799ad7c48ef6c15ddf7c41b98
+  path: ../../src/clean/donatarias_autorizadas.sed
+md5: 4fafc8b5338ce16f382cb08d05b28ac2
+outs:
+- cache: true
+  md5: 60c3efefaad13e166d6b39dbb6fb1f03
+  path: donatarias_autorizadas_2009.csv

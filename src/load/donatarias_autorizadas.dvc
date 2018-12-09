@@ -1,0 +1,5 @@
+cmd: psql -d laboratorio_anticorrupcion -f donatarias_autorizadas.sql
+deps:
+- md5: b52f3adb7d731084db6e1464c9e794ef
+  path: ../../data/processed/donatarias_autorizadas_2011.csv
+md5: 67b98e6aac727ce9f877ab22889cde90

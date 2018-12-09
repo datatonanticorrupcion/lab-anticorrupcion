@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  superset:
+    image: amancevice/superset
+    restart: unless-stopped
+    network_mode: host
+    volumes:
+      - ./superset_config.py:/etc/superset/superset_config.py
